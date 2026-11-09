@@ -1,0 +1,9 @@
+name: Arena
+main: ru.revvo.arena.ArenaPlugin
+version: 1.0
+api-version: '1.21'
+depend: [PlayerPoints]
+commands:
+  arena:
+    description: Меню арены
+    aliases: [арена]
